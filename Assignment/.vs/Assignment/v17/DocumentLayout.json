@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\C# 3\\Assignment\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|e:\\c#\\c# 3\\assignment\\assignment\\formthongtinsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formthongtinsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formthongtinsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formthongtinsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formquanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formquanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formquanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formquanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formdiemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formdiemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formdanhchosv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formdanhchosv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formdiemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formdiemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formdanhchosv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formdanhchosv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formthongtinusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formthongtinusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formthongtinusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formthongtinusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formquenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formquenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formquenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formquenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formdanhchosv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formdanhchosv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|E:\\C#\\C# 3\\Assignment\\Assignment\\formdangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D76982E-D216-42F1-B2B3-DAE02C3894E7}|GUI_Assignment.csproj|solutionrelative:formdangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\C# 3\\Assignment\\Assignment\\KhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormQuanLyLopHoc.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormQuanLyLopHoc.cs",
+              "RelativeDocumentMoniker": "FormQuanLyLopHoc.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormQuanLyLopHoc.cs [Design]",
+              "RelativeToolTip": "FormQuanLyLopHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:35:53.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormQuanLyLopHoc.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormQuanLyLopHoc.cs",
+              "RelativeDocumentMoniker": "FormQuanLyLopHoc.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormQuanLyLopHoc.cs",
+              "RelativeToolTip": "FormQuanLyLopHoc.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAcwK8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:55:11.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormThongTinSinhVien.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormThongTinSinhVien.cs",
+              "RelativeDocumentMoniker": "FormThongTinSinhVien.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormThongTinSinhVien.cs [Design]",
+              "RelativeToolTip": "FormThongTinSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:45:53.858Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormThongTinSinhVien.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormThongTinSinhVien.cs",
+              "RelativeDocumentMoniker": "FormThongTinSinhVien.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormThongTinSinhVien.cs",
+              "RelativeToolTip": "FormThongTinSinhVien.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvx4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:23:31.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:31:11.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDiemSinhVien.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDiemSinhVien.cs",
+              "RelativeDocumentMoniker": "FormDiemSinhVien.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDiemSinhVien.cs [Design]",
+              "RelativeToolTip": "FormDiemSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:51:07.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormDanhChoSV.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDanhChoSV.cs",
+              "RelativeDocumentMoniker": "FormDanhChoSV.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDanhChoSV.cs [Design]",
+              "RelativeToolTip": "FormDanhChoSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:34:54.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormDangKy.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDangKy.cs",
+              "RelativeDocumentMoniker": "FormDangKy.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDangKy.cs [Design]",
+              "RelativeToolTip": "FormDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:52:36.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDangKy.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDangKy.cs",
+              "RelativeDocumentMoniker": "FormDangKy.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDangKy.cs",
+              "RelativeToolTip": "FormDangKy.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:53:38.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormDiemSinhVien.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDiemSinhVien.cs",
+              "RelativeDocumentMoniker": "FormDiemSinhVien.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDiemSinhVien.cs",
+              "RelativeToolTip": "FormDiemSinhVien.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAIwG8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:51:08.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormDanhChoSV.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDanhChoSV.cs",
+              "RelativeDocumentMoniker": "FormDanhChoSV.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDanhChoSV.cs",
+              "RelativeToolTip": "FormDanhChoSV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:37:33.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormThongTinUsers.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormThongTinUsers.cs",
+              "RelativeDocumentMoniker": "FormThongTinUsers.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormThongTinUsers.cs",
+              "RelativeToolTip": "FormThongTinUsers.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAkwJcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T12:39:50.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormThongTinUsers.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormThongTinUsers.cs",
+              "RelativeDocumentMoniker": "FormThongTinUsers.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormThongTinUsers.cs [Design]",
+              "RelativeToolTip": "FormThongTinUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T12:39:49.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormQuenMatKhau.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormQuenMatKhau.cs",
+              "RelativeDocumentMoniker": "FormQuenMatKhau.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormQuenMatKhau.cs",
+              "RelativeToolTip": "FormQuenMatKhau.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwFUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-18T09:00:36.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormQuenMatKhau.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormQuenMatKhau.cs",
+              "RelativeDocumentMoniker": "FormQuenMatKhau.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormQuenMatKhau.cs [Design]",
+              "RelativeToolTip": "FormQuenMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-18T08:21:48.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T12:16:28.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:23:06.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\KhachHang.cs",
+              "RelativeDocumentMoniker": "KhachHang.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\KhachHang.cs",
+              "RelativeToolTip": "KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:15:01.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:31:40.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDangNhap.cs",
+              "RelativeToolTip": "FormDangNhap.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-10T12:16:29.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormDanhChoSV.Designer.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDanhChoSV.Designer.cs",
+              "RelativeDocumentMoniker": "FormDanhChoSV.Designer.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDanhChoSV.Designer.cs",
+              "RelativeToolTip": "FormDanhChoSV.Designer.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAcwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:39:07.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormDangNhap.Designer.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "FormDangNhap.Designer.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDangNhap.Designer.cs",
+              "RelativeToolTip": "FormDangNhap.Designer.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAKMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-10T12:47:59.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormDangKy.Designer.cs",
+              "DocumentMoniker": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDangKy.Designer.cs",
+              "RelativeDocumentMoniker": "FormDangKy.Designer.cs",
+              "ToolTip": "E:\\C#\\C# 3\\Assignment\\Assignment\\FormDangKy.Designer.cs",
+              "RelativeToolTip": "FormDangKy.Designer.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAAALcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:16:15.473Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

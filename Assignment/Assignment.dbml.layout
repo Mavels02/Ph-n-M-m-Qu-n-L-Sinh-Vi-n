@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Assignment">
+  <DataContextMoniker Name="/AssignmentDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a58fb8fb-2352-41f1-913a-1f51351f1b0a" absoluteBounds="1.5, 1.375, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/AssignmentDataContext/Hang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aaf943bf-e0db-4637-85de-f430610c7547" absoluteBounds="1.5150000000000001, 1.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ed6de059-a982-4f8a-b8be-c9ae196f30fc" absoluteBounds="4.375, 2, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/AssignmentDataContext/KhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b5f93fdc-04a1-4841-9f30-7b06b2cd5daf" absoluteBounds="4.39, 2.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cfb3e95b-a283-4e7c-ad6e-2ec63f193a63" absoluteBounds="2.625, 5.125, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/AssignmentDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="587fdb15-1271-45bb-92b3-8e6c020708f1" absoluteBounds="2.64, 5.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.0625 : 5.125); (3.0625 : 3.72280110677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AssignmentDataContext/NhanVien/NhanVien_Hang" />
+      <nodes>
+        <classShapeMoniker Id="cfb3e95b-a283-4e7c-ad6e-2ec63f193a63" />
+        <classShapeMoniker Id="a58fb8fb-2352-41f1-913a-1f51351f1b0a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.625 : 6.29890055338542); (5.5000005 : 6.29890055338542); (5.5000005 : 3.77089680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AssignmentDataContext/NhanVien/NhanVien_KhachHang" />
+      <nodes>
+        <classShapeMoniker Id="cfb3e95b-a283-4e7c-ad6e-2ec63f193a63" />
+        <classShapeMoniker Id="ed6de059-a982-4f8a-b8be-c9ae196f30fc" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
